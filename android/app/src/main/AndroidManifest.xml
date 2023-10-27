@@ -7,7 +7,7 @@
         android:label="stripe_payment_integration">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBfbE8DXCwCXJJeZM6kP8GOF2Y_uxmveO8" />
+            android:value="GOOGLE_API_KEY" />
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
